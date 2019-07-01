@@ -25,8 +25,8 @@ def multiplication(num1, num2)
 end
 
 def modulo(num1, num2)
-  num1 = 35
-  num2 = 4
+  num1 = 34
+  num2 = 5 
   return num1%num2
 end
 
