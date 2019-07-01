@@ -32,5 +32,5 @@ end
 
 def square_root(num)
 num = 81
-return integer#square_root
+return Math.sqrt(num)
 end
